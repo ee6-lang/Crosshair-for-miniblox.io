@@ -2,7 +2,7 @@
 // @name         Crosshair for bridging on miniblox.io
 // @namespace    http://tampermonkey.net/
 // @description  Adds a crosshair in the form of an arrow in the center of the screen on miniblox.io
-// @author       ee7-lang
+// @author       ee6-lang
 // @match        https://miniblox.io/*
 // @grant        GM_addStyle
 // @license      Redistribution prohibited
