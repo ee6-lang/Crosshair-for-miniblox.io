@@ -15,7 +15,7 @@
     'use strict';
 
     
-    const crosshairURL = 'https://static.thenounproject.com/png/344378-200.png';
+    const crosshairURL = 'https://www.flaticon.com/free-icon/target_3784288?term=crosshair&related_id=3784288';
 
    
     const crosshair = document.createElement('img');
