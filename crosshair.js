@@ -14,10 +14,8 @@
 (function() {
     'use strict';
 
-    
-    const crosshairURL = 'https://www.flaticon.com/free-icon/target_3784288?term=crosshair&related_id=3784288';
+    const crosshairURL = 'https://raw.githubusercontent.com/lacymorrow/crossover/master/src/static/icons/icon.png';
 
-   
     const crosshair = document.createElement('img');
     crosshair.src = crosshairURL;
     crosshair.style.position = 'fixed';
@@ -28,7 +26,5 @@
     crosshair.style.transform = 'translate(-50%, -50%)';
     crosshair.style.zIndex = '9999'; 
 
-    
     document.body.appendChild(crosshair);
 })();
-
